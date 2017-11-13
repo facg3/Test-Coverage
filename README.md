@@ -2,10 +2,17 @@
 Test Coverage repository is a helpful documentation resource to have a better understanding of what Test Coverage really is!
 
 ## What is test coverage?
-DALAL : edits in here.
+Test Coverage measures the amount of testing executed .
+-It give the information about covered and uncovered areas in the testing.
+-100% coverage does not mean 100% tested.
+-% of coverage =(no of test areas covered / total number of test areas)*100.
+![alt](http://istqbexamcertification.com/wp-content/uploads/2012/01/test-coverage-formula.jpg)
+
 
 ## Why is test coverage useful?
-DALAL : edits in here.
+1-To find the areas which are in the requirements document but not covered in the test cases .
+2-It help to take decision about quality of product.
+3- It help us to bridge the gap between requirement and test cases.
 
 ## What are Istanbul and NYC?
 ### Istanbul:
@@ -21,10 +28,12 @@ Istanbul/NYC methodology of testing exists to tell programmers what and where th
 less talk, this is just another tool to support JavaScript programmers to keep tracking their code testing and know how well they have done it.
 
 ## Use Istanbul/NYC to calculate your code coverage for the TDD workshop.
-MOHAMMED : edits in here.
+Mohammed is gonna play it live!
 
 
 
 ## Resources:
+What is test coverage?: http://istqbexamcertification.com/what-is-test-coverage-in-software-testing-its-advantages-and-disadvantages/
+Test coverage: https://www.youtube.com/watch?v=NmIB2tfshyY
 Official website: https://istanbul.js.org/
 NYC and Typescript: https://github.com/istanbuljs/nyc/pull/326
